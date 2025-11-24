@@ -6,4 +6,4 @@ Roblox has abused kids. Simple as that. This is a list of all of the sites owned
 
 If you are a parent, guardian, school, daycare, or whatever, that knows alot about managing networks, and has a kid/student who's been abused by Roblox predators, **this list is for you**. 
 
-## If you are Roblox, Roblox Staff, CEO of Roblox, looking at this github repository, **fuck off.**
+## If you are Roblox, Roblox Staff, CEO of Roblox, looking at this github repository, *fuck off.*
