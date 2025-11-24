@@ -99,10 +99,6 @@
 ||rolimons.com
 ||robloxforum.com
 
-# Discord Links
-||discord.gg/blushcrunch$document
-||discord.gg/fgkV29yGmE$document
-
 # Credits
 # https://forum.netgate.com/topic/177129/roblox-url-list
 # https://roblox.fandom.com/wiki/Domain_redirects
