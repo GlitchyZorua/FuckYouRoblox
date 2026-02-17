@@ -1,5 +1,5 @@
 # FuckYouRoblox
-Block Roblox via ublock origin
+Block Roblox.
 
 # Why?
 Roblox has abused kids. Simple as that. This is a list of all of the sites owned by roblox, and some unofficial roblox games that have its own website, wiki, or whatever.
